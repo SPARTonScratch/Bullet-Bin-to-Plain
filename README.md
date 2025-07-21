@@ -25,7 +25,7 @@ Comma-separated key-value pairs:
 
 ## Custom Base64 Encoding
 **Alphabet:**  
-`ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$%&()*+,-./:;<=>?@[]_^`{~}`
+```ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!#$%&()*+,-./:;<=>?@[]_^`{~}```
 
 **Value Ranges:**
 - **12-bit values** (H, b, O):
